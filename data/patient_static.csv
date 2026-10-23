@@ -1,0 +1,2 @@
+patient_id,age_years,ckd_stage_label,baseline_egfr_ml_min_1_73m2,baseline_creatinine_mg_dl,hypertension_history,diabetes_history,baseline_systolic_bp_mmhg,data_status
+NT001,52,G3a (fictional example),52.0,1.4,1,0,132,SYNTHETIC - NOT A REAL PATIENT
