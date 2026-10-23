@@ -58,9 +58,6 @@ Install pytest first with `python -m pip install pytest` if needed.
 ## Model and evaluation
 The current index is an interpretable, hand-weighted demonstration function, not a trained or clinically validated model. No clinical accuracy claim is made. A future research version should use appropriately sourced labelled data, patient-level splits to prevent leakage, calibration, subgroup analysis, external validation, and clinical oversight.
 
-## Demo video
-Add a public or unlisted video URL here. The video must be at least 20 minutes per the challenge instructions.
-
 ## Submission files
 - `docs/architecture.pdf`
 - `docs/presentation.pdf`
