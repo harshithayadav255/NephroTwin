@@ -2,10 +2,10 @@
 **A Personalized Digital Twin Prototype for Heat-Associated Physiological Strain in Early-Stage Chronic Kidney Disease**
 
 ## Team details
-- Team name: REPLACE
-- College/incubator: REPLACE
-- Team leader: REPLACE
-- Team members: REPLACE
+- Team name: Twintechies
+- College/incubator: G.Narayanamma institute of technology and sciences
+- Team leader: G.Bhuvana sri
+- Team members: G.Harshitha yadav
 
 ## Problem statement
 People living with early-stage chronic kidney disease may respond differently to heat exposure and activity because of differences in baseline health. NephroTwin is a proof-of-concept virtual patient that combines a fictional historical clinical profile with synthetic hourly wearable and environmental inputs. It updates an illustrative physiological-strain index and lets users compare hypothetical 24-hour scenarios.
